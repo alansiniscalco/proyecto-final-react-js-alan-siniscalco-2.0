@@ -1,0 +1,35 @@
+.cart__layout {
+  display: flex;
+}
+.cart__container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2rem;
+}
+
+.cart__card {
+  margin-left: 2rem;
+}
+
+.empty__cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+img {
+  margin: 1rem;
+  width: 318m;
+}
+
+.cart__title{
+    text-align: center;
+}

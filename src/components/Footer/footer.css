@@ -1,0 +1,33 @@
+.container {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: wrap;
+
+  flex-direction: column;
+  align-items: center;
+  padding: 2%;
+  text-align: center;
+}
+
+.footer__contact {
+  list-style-type: none;
+  display: flex;
+  flex-direction: inherit;
+  justify-content: space-between;
+  flex-direction: row;
+  padding-left: 0;
+}
+
+.footer__contact__li {
+  padding: 5px;
+}
+.footer__contact--link {
+  text-decoration: none;
+  color: black;
+}
+
+.copyright__p {
+  font-size: 0.8rem;
+}

@@ -1,0 +1,22 @@
+.catg__container {
+  width: 20rem;
+  margin: 2rem;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.catg__layout {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.catg__align {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 15rem;
+}

@@ -1,0 +1,20 @@
+.logo-clean {
+  width: 3em;
+  margin-left: 2rem;
+}
+
+.navbar {
+  display: flex;
+}
+
+.nav__flex {
+  justify-content: space-between;
+}
+
+.cart {
+  margin-right: 2rem;
+}
+
+.nombre {
+  padding-left: 1rem;
+}
